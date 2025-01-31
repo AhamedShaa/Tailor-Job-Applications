@@ -1,1 +1,1 @@
-# L7: Build a Crew to Tailor Job Applications
+# Build a Crew to Tailor Job Applications
